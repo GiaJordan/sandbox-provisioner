@@ -9,7 +9,7 @@ parameters:
   # The Sage deparment (Platform, CompOnc, SysBio, Governance, etc..)
   Department: "IBC"
   # The Sage project (Infrastructure, amp-ad, ntap, dream, etc..)
-  Project: "Schematic"
+  Project: "SandboxTestDeployment"
   # The resource owner
   OwnerEmail: "gianna.jordan@sagebase.org"
 
